@@ -1,0 +1,14 @@
+include
+src
+libft
+.
+src/gui
+libstd/includes
+libstd/liblst
+libstd
+libstd/libstr
+libstd/libdlst
+libstd/libft
+libstd/libgnl
+src/mlx
+src/sdl

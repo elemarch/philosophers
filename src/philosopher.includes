@@ -1,0 +1,9 @@
+include
+libstd/includes
+libstd/libgnl
+libstd/libdlst
+libstd/libft
+libstd/liblst
+src/mlx
+src
+libstd/libstr
